@@ -2,6 +2,7 @@
 
 Projects/companies working on blockchain and identity (pull requests welcome):
 
+ * [Authenteq](http://authenteq.com/) is a networked automatic identity verification platform eliminating marketplace risk associated with anonymity while users retain their privacy, leading to increased trust and transparency in transactions and communications, resulting in increased user experience and higher revenue.
  * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering domain names. It is the first fork of the Bitcoin software.
  * [NameID](https://nameid.org/) is an OpenID service based on Namecoin identifiers.
  * [CertCoin](https://courses.csail.mit.edu/6.857/2014/files/19-fromknecht-velicann-yakoubov-certcoin.pdf) is an MIT paper about a NameCoin-based decentralized authentication system which maintains a public ledger of domains and their associated public keys.
@@ -21,7 +22,7 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * Linux foundation [hyper ledger](https://www.hyperledger.org/) project looking to develop a cross-industry open standard with many big companies participating.
  * [ID2020](http://id2020.org/) seeks to provide every child born after 2020 with a self sovereign digital identity, which helps reduce risks of trafficking and drive digital inclusion.
  * [Shocard](https://shocard.com/) is an early stage company developing an “identity platform” built on blockchain.
- * A [research team](http://mm.aueb.gr/) at Athens University of Economics and Business is working on “information-centric” networking and is exploring the use of blockchain technology for “content names”. 
+ * A [research team](http://mm.aueb.gr/) at Athens University of Economics and Business is working on “information-centric” networking and is exploring the use of blockchain technology for “content names”.
  * The U.S. Department of Homeland Security is [funding](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html) research on the "Applicability of Blockchain Technology to Privacy Respecting Identity Management"
  * An MIT [paper](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf) about "Decentralizing Privacy: Using Blockchain to Protect Personal Data".
  * An Ethereum [blog post](https://blog.ethereum.org/2016/01/15/privacy-on-the-blockchain/) about "Privacy on the Blockchain", including some thoughts about identity systems.
@@ -37,4 +38,3 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [DIDs](https://docs.google.com/document/d/1Z-9jX4PEWtyRFD5fEyyzEnWK_0ir0no1JJLuRu8O9Gs/) (Decentralized Identifiers) are a new type of identifier intended for digital identity that is "self-sovereign", i.e, fully under the control of the identity owner. DIDs resolve to DDOs (DID descriptor objects) and can be registered in different blockchains (using different "methods").
  * A [research project](https://github.com/jolocom/WebID-Ethereum-Integration) on registering WebIDs on the Ethereum blockchain, to be used for Linked Data and Solid.
  * An [article](http://www.gsma.com/personaldata/the-relationship-between-blockchain-and-digital-identity) by the GSMA about the relationship between blockchain and identity.
- 
