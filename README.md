@@ -46,7 +46,8 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [HYPR](https://www.hypr.com/): HYPR-Secure’s tokenization provides blockchain applications a viable solution for securing private keys behind a biometric authentication gateway. Whether it’s a biometric bitcoin wallet or a smart-contract platform, HYPR augments security by decentralizing the storage of private keys.
  * [BlockAuth](http://blockauth.org/): BlockAuth enables you to own and operate your own identity registrar that allows users to submit their information for verification.
  * [Case](https://choosecase.com/): Provides biometrically secured multisignature bitcoin transactions. Case is a multisignature, multifactor wallet that requires two of three keys for a transaction to take place. Each key is generated and stored in a different location and is protected by a different authentication factor so that there’s no single point of failure.
-
+ * [Airbitz](https://airbitz.co/bitcoin-wallet/) A bitboin wallet/ identity solution
+ * [Mooti](http://mootipass.com/) is the new standard for cryptographic identification and validation. based on our identity chain technology, we are reimagining the security of personally identifiable information and authentication.
 
 #### Objects/ Things
 
